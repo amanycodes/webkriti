@@ -1,2 +1,0 @@
-# webkriti
-Techfest Website
